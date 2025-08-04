@@ -7,7 +7,7 @@ Credits:
 In charge of the GUI segment and working with JavaFX to display the graphics for the textgame
 GUI team:
   Leader: Alexander Lancaster
-    Memers: Andres Soto, Christian Figueroa
+    Members: Andres Soto, Christian Figueroa
 
 In charge of making the rooms for the game and the logic for the puzzles within
 Content team:
